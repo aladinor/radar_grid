@@ -1,0 +1,23 @@
+name: radar_grid
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python>=3.12
+  - mamba
+  - xradar>=0.5.0
+  - cartopy
+  - fsspec
+  - jupyterlab
+  - xarray
+  - dask
+  - netcdf4
+  - bottleneck
+  - zarr
+  - xarray-datatree
+  - ca-certificates
+  - certifi
+  - openssl
+  - s3fs>=2023.3.0
+  - arm_pyart>=1.18.1
+
