@@ -7,7 +7,7 @@ If you are interested in running this material locally on your computer, you wil
 
 1. Clone the ["radar_grid"](https://github.com/aladinor/radar_grid.git) repository
     ```bash
-    git https://github.com/aladinor/radar_grid.git
+    git clone https://github.com/aladinor/radar_grid.git
     ```
 
 2. Move into the `radar_grid` directory
