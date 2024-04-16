@@ -5,7 +5,6 @@ channels:
 dependencies:
   - python>=3.12
   - mamba
-  - xradar>=0.5.0
   - cartopy
   - fsspec
   - jupyterlab
@@ -20,4 +19,6 @@ dependencies:
   - openssl
   - s3fs>=2023.3.0
   - arm_pyart>=1.18.1
+  - pip:
+      - git+https://github.com/openradar/xradar.git
 
